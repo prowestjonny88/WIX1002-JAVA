@@ -13,19 +13,15 @@ These notes are designed to help:
 
 ## 📂 Contents
 
+- **Java Fundamentals**
+- **Flow of Controls**
+- **Arrays**
 - **Methods**
-  - Why methods exist
-  - Method declaration & invocation
-  - Parameters vs arguments
-  - Return types (`void` vs non-`void`)
-  - Call stack & call-by-value
-  - Arrays & objects as parameters
-  - Static methods & `main`
-  - Method overloading
-  - Common mistakes & best practices
-  - Exam-style exercises with solutions
-
-> More topics will be added progressively.
+- **File Handling**
+- **Class**
+- **Inheritance**
+- **Polymorphism**
+- **Exception Handling**
 
 ---
 
